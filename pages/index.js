@@ -96,7 +96,7 @@ export default function Home() {
   return (
     <>
 
-    <main className="flex">
+    <main className="flex-col px-6">
 
       <div className=' mx-auto mt-10 '>
       <div className='text-3xl py-5'>Home page</div>
